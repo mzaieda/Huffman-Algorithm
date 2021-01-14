@@ -1,0 +1,1 @@
+Data is stored in files so that it may be retrieved for processing when needed. The commands for reading data from a file are (for the most part) very similar to those used to read data from the keyboard. However, some important distinctions are described here.}
